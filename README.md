@@ -1,4 +1,4 @@
-<p align="center"> Lunar OS</p>
+<h1 align="center"> Lunar OS </h1>
 
 ---
 
