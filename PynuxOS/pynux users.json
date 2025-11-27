@@ -1,0 +1,29 @@
+{
+  "Leonxzy": {
+    "password": "Leonxzy",
+    "highscore": 5,
+    "tokens": 99742,
+    "unlocked": [
+      "green",
+      "red",
+      "cyan",
+      "purple",
+      "yellow",
+      "blue",
+      "pink",
+      "orange",
+      "white"
+    ],
+    "equipped": "white",
+    "caps_unlocked": [
+      "none",
+      "wizard hat",
+      "crown",
+      "top hat",
+      "cowboy hat",
+      "party hat",
+      "pirate hat"
+    ],
+    "cap_equipped": "crown"
+  }
+}
