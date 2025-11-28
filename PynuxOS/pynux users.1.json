@@ -1,0 +1,28 @@
+{
+  "Leonxzy": {
+    "password": "Leonxzy",
+    "highscore": 1,
+    "tokens": 0,
+    "unlocked": [
+      "green"
+    ],
+    "equipped": "green",
+    "caps_unlocked": [
+      "none"
+    ],
+    "cap_equipped": "none"
+  },
+  "Mrki": {
+    "password": "Mrki",
+    "highscore": 3,
+    "tokens": 0,
+    "unlocked": [
+      "green"
+    ],
+    "equipped": "green",
+    "caps_unlocked": [
+      "none"
+    ],
+    "cap_equipped": "none"
+  }
+}
